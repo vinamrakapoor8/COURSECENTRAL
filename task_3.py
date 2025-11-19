@@ -1,5 +1,5 @@
 # Password Generator Program in Python
-# Created by Abhinav during CodSoft Internship
+# Created by vinamra kapoor during CodSoft Internship
 
 import random
 import string
@@ -22,4 +22,5 @@ def generate_password():
         return "Invalid input! Please enter a valid number."
 
 # Run the generator
+
 print(generate_password())
